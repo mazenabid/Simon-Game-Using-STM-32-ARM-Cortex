@@ -16,6 +16,13 @@ Recreation of the classic Simon electronic memory game using a Nucleo board, but
 - Nucleo board
 - 4 buttons
 - 4 LEDs
+- Breadboard
+
+## Software Requirements
+- Ukiel Vision
+
+## Coding Language
+- Programming Language: C
 
 ## Video Demonstration
 For a more detailed look at the game, you can watch the video [here]((https://youtu.be/NIQATZ_B2_o?si=0LBkRvy3qq9swuFP))
