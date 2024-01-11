@@ -17,6 +17,11 @@ Recreation of the classic Simon electronic memory game using a Nucleo board, but
 - 4 buttons
 - 4 LEDs
 
+## Video Demonstration
+For a more detailed look at the game, you can watch the video [here]([VIDEO_URL](https://youtu.be/NIQATZ_B2_o?si=0LBkRvy3qq9swuFP)).
+
+[![Watch the video](http://img.youtube.com/vi/NIQATZ_B2_o/0.jpg)](https://youtu.be/NIQATZ_B2_o?si=0LBkRvy3qq9swuFP)
+
 ## Development and Contributions
 Project for ENSE 352 at the University of Regina. Contributions are welcome.
 
